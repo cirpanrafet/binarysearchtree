@@ -20,13 +20,13 @@ ROOT 7 dir,
 
 9- dizinin onbirinci elemanı olan 2, rootdan ve 5 den küçük olduğundan 1 den büyük olduğundan 3 den küçük olduğundan'3 ün soluna dördüncü düğüm satırına yazıyoruz.
 
-                        7(ROOT)                       
+                                        7(ROOT)                       
+                                    /       \
+                                5               8                
+                            /       \               \
+                        1               6               9       
                     /       \
-                5               8                
-            /       \               \
-        1               6               9       
-    /       \
-0               3                                
-            /       \
-        2               4                      
+                0               3                                
+                            /       \
+                        2               4                      
 
